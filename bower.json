@@ -1,15 +1,3 @@
 {
-  "name": "schemajs",
-  "version": "0.0.1",
-  "authors": [
-    "Fabian Cook <fabian.cook@joukou.com>"
-  ],
-  "main": "dist/schema-browser.js",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "name": "schemajs"
 }
